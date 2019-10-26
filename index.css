@@ -1,11 +1,31 @@
 .blueCol{
     background-color: dodgerblue;
-}
-
-.blueCol:first-of-type, .beigeCol:first-of-type{
-    padding-top: 2rem;
+    margin-right: 0.5rem;
+    border-radius: 2%;
 }
 
 .beigeCol{
     background-color: blanchedalmond;
+    border-radius: 2%;
+}
+
+.contentHeight{
+    height: 30rem;
+}
+
+.paddingtop:nth-of-type(even){
+    background-color: darkcyan;
+}
+
+.paddingtop{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.topContainer{
+    width: 100%;
+}
+
+h3{
+    text-align: center;
 }

@@ -7,7 +7,11 @@
 .beigeCol{
     background-color: blanchedalmond;
     border-radius: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center
 }
+
 
 .contentHeight{
     height: 30rem;

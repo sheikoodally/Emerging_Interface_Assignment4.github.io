@@ -2,6 +2,10 @@
     background-color: dodgerblue;
 }
 
+.blueCol:first-of-type, .beigeCol:first-of-type{
+    padding-top: 2rem;
+}
+
 .beigeCol{
     background-color: blanchedalmond;
 }

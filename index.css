@@ -9,7 +9,11 @@
     border-radius: 2%;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+}
+
+p{
+    font-size: 1.5rem;
 }
 
 
@@ -33,3 +37,64 @@
 h3{
     text-align: center;
 }
+
+.one{
+   background: url(images/001.JPG);
+   height:100%;
+   width: 100%;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.two{
+    background: url(images/1.JPG);
+    height:100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center; 
+ }
+
+ .three{
+    background: url(images/2.JPG);
+    height:100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center; 
+
+ }
+
+ .four{
+    background: url(images/3.JPG);
+    height:100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    
+ }
+
+ .five{
+    background: url(images/05.JPG);
+    height:100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+ }
+
+ .six{
+    background: url(images/06.JPG);
+    height:100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center; 
+ }
+
+ .seven{
+    background: url(images/07.JPG);
+    height:100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+ }
